@@ -1,0 +1,438 @@
+﻿Log file open, 09/09/17 12:53:09
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: Shooter2D
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(679936073) SRandInit(679936073).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181135
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.09-19.53.10:189][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.09-19.53.10:189][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.09-19.53.10:232][  0]LogInit: Computer: EN206-19291
+[2017.09.09-19.53.10:232][  0]LogInit: User: ripple19
+[2017.09.09-19.53.10:232][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.09-19.53.10:232][  0]LogInit: High frequency timer resolution =3.215229 MHz
+[2017.09.09-19.53.10:232][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.09.09-19.53.10:232][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.09-19.53.10:233][  0]LogMemory: Process Physical Memory: 278.04 MB used, 278.04 MB peak
+[2017.09.09-19.53.10:233][  0]LogMemory: Process Virtual Memory: 274.17 MB used, 274.17 MB peak
+[2017.09.09-19.53.10:233][  0]LogMemory: Physical Memory: 5056.18 MB used,  3059.62 MB free, 8115.80 MB total
+[2017.09.09-19.53.10:233][  0]LogMemory: Virtual Memory: 668.14 MB used,  3059.62 MB free, 134217728.00 MB total
+[2017.09.09-19.53.10:624][  0]LogInit: Using OS detected language (en-US).
+[2017.09.09-19.53.10:624][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.09-19.53.10:627][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.09-19.53.11:362][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.09-19.53.11:389][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 610' (Feature Level 11_0)
+[2017.09.09-19.53.11:389][  0]LogD3D11RHI:       2000/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.09-19.53.11:390][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.09-19.53.11:390][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.09-19.53.11:390][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.09-19.53.11:396][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.09-19.53.11:396][  0]LogD3D11RHI:     GPU DeviceId: 0x104a (for the marketing name, search the web for "GPU Device Id")
+[2017.09.09-19.53.11:396][  0]LogWindows: EnumDisplayDevices:
+[2017.09.09-19.53.11:396][  0]LogWindows:    0. 'NVIDIA GeForce GT 610' (P:1 D:1)
+[2017.09.09-19.53.11:396][  0]LogWindows:    1. 'NVIDIA GeForce GT 610' (P:0 D:0)
+[2017.09.09-19.53.11:396][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2017.09.09-19.53.11:396][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 610
+[2017.09.09-19.53.11:396][  0]LogD3D11RHI:   Driver Version: 385.28 (internal:22.21.13.8528, unified:385.28)
+[2017.09.09-19.53.11:396][  0]LogD3D11RHI:      Driver Date: 8-9-2017
+[2017.09.09-19.53.11:396][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.09-19.53.11:417][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.09.09-19.53.11:417][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.09-19.53.11:434][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.09.09-19.53.11:435][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/ripple19/Documents/Unreal Projects/2DShooterGame/Shooter2D/Intermediate/Shaders/WorkingDirectory/11584/).
+[2017.09.09-19.53.11:435][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ripple19/AppData/Local/Temp/UnrealShaderWorkingDir/D37F7FCB472F4A7FCBC3968CED193028/'.
+[2017.09.09-19.53.11:435][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.09-19.53.12:456][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.09-19.53.12:550][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.09-19.53.12:647][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.09-19.53.12:741][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.09-19.53.12:837][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.09-19.53.12:934][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.09-19.53.13:030][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.09-19.53.13:128][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.09-19.53.13:220][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.09-19.53.13:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.09-19.53.13:406][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.09-19.53.13:498][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.09-19.53.13:588][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.09-19.53.13:683][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.09-19.53.13:776][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.09-19.53.13:969][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.09-19.53.13:969][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.09-19.53.14:053][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.09-19.53.14:221][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.09-19.53.14:279][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.09-19.53.14:371][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.09-19.53.14:466][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.09-19.53.14:562][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.09-19.53.14:655][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.09-19.53.14:655][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.09-19.53.15:718][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.09-19.53.15:818][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/ripple19/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.09-19.53.15:827][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ripple19/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.09-19.53.15:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ripple19/Documents/Unreal Projects/2DShooterGame/Shooter2D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.09-19.53.15:827][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.09-19.53.15:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ripple19/Documents/Unreal Projects/2DShooterGame/Shooter2D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.09-19.53.15:827][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.09-19.53.15:843][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.09-19.53.15:855][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ripple19/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.09-19.53.15:865][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.09-19.53.15:865][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.09-19.53.15:866][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.09-19.53.15:866][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.09-19.53.16:124][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2017.09.09-19.53.16:289][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.09-19.53.16:432][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.09-19.53.17:006][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.09-19.53.17:101][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.09-19.53.17:101][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.09-19.53.17:101][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.09-19.53.17:101][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.09-19.53.17:101][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.09-19.53.17:491][  0]LogNetVersion: Shooter2D , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 417512241)
+[2017.09.09-19.53.17:780][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.049247 seconds
+[2017.09.09-19.53.17:786][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.09-19.53.17:786][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.09-19.53.17:786][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.09-19.53.17:943][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.09-19.53.22:042][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.09-19.53.22:115][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.09-19.53.23:300][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.09-19.53.24:042][  0]SourceControl: Source control is disabled
+[2017.09.09-19.53.24:043][  0]SourceControl: Source control is disabled
+[2017.09.09-19.53.24:137][  0]SourceControl: Source control is disabled
+[2017.09.09-19.53.24:237][  0]SourceControl: Source control is disabled
+[2017.09.09-19.53.25:450][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.09-19.53.25:940][  0]LogOcInput: OculusInput pre-init called
+[2017.09.09-19.53.26:417][  0]LogEngine: Initializing Engine...
+[2017.09.09-19.53.26:419][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.09-19.53.26:635][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.09-19.53.26:635][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.09-19.53.26:903][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.09-19.53.26:908][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.09-19.53.26:925][  0]LogInit: FAudioDevice initialized.
+[2017.09.09-19.53.27:290][  0]LogDerivedDataCache: Saved boot cache 0.36s 93MB C:/Users/ripple19/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.09-19.53.27:304][  0]LogInit: Texture streaming: Enabled
+[2017.09.09-19.53.27:583][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.09-19.53.28:041][  0]LogInit: Transaction tracking system initialized
+[2017.09.09-19.53.28:704][  0]BlueprintLog: New page: Editor Load
+[2017.09.09-19.53.30:615][  0]LocalizationService: Localization service is disabled
+[2017.09.09-19.53.32:023][  0]LogConsoleResponse: Display: 
+[2017.09.09-19.53.32:236][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.09-19.53.32:236][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.09-19.53.32:236][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.09-19.53.32:809][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ripple19/Documents/Unreal Projects/2DShooterGame/Shooter2D/Content/' took 0.02s
+[2017.09.09-19.53.34:409][  0]SourceControl: Source control is disabled
+[2017.09.09-19.53.34:409][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ripple19/Documents/Unreal Projects/2DShooterGame/Shooter2D/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.09-19.53.34:409][  0]LightingResults: New page: Lighting Build
+[2017.09.09-19.53.34:505][  0]MapCheck: New page: Map Check
+[2017.09.09-19.53.34:505][  0]LightingResults: New page: Lighting Build
+[2017.09.09-19.53.34:903][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.09-19.53.34:912][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.09-19.53.34:926][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.09-19.53.34:987][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.106ms to complete.
+[2017.09.09-19.53.34:987][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.578
+[2017.09.09-19.53.35:297][  0]LogCollectionManager: Loaded 0 collections in 0.001868 seconds
+[2017.09.09-19.53.35:421][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ripple19/Documents/Unreal Projects/2DShooterGame/Shooter2D/Saved/Collections/' took 0.01s
+[2017.09.09-19.53.35:421][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ripple19/Documents/Unreal Projects/2DShooterGame/Shooter2D/Content/Developers/ripple19/Collections/' took 0.01s
+[2017.09.09-19.53.35:421][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ripple19/Documents/Unreal Projects/2DShooterGame/Shooter2D/Content/Collections/' took 0.01s
+[2017.09.09-19.53.35:421][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.09.09-19.53.35:430][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2386 classes and 500 folders.
+[2017.09.09-19.53.35:575][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.09.09-19.53.36:439][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.09.09-19.53.36:529][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.09.09-19.53.36:549][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.09-19.53.36:550][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.09-19.53.36:568][  0]LogSlate: Took 0.013340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.09-19.53.36:687][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2017.09.09-19.53.36:989][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.09.09-19.53.36:989][  0]LogLoad: (Engine Initialization) Total time: 29.14 seconds
+[2017.09.09-19.53.36:989][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.09-19.53.36:989][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.09-19.53.36:999][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.09.09-19.53.37:017][  0]LogAssetRegistry: Asset discovery search completed in 20.9151 seconds
+[2017.09.09-19.53.37:019][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.09-19.53.37:019][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2017.09.09-19.53.37:021][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.09-19.53.37:122][  0]LogSlate: Took 0.062228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.09-19.54.25:470][303]SourceControl: On branch master
+[2017.09.09-19.54.25:470][303]SourceControl: Your branch is ahead of 'origin/master' by 2 commits.
+[2017.09.09-19.54.25:470][303]SourceControl:   (use "git push" to publish your local commits)
+[2017.09.09-19.54.25:470][303]SourceControl: Changes not staged for commit:
+[2017.09.09-19.54.25:470][303]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.09.09-19.54.25:470][303]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.09.09-19.54.25:470][303]SourceControl: 	modified:   Shooter2D/Intermediate/CachedAssetRegistry.bin
+[2017.09.09-19.54.25:470][303]SourceControl: 	modified:   Shooter2D/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.09.09-19.54.25:470][303]SourceControl: 	modified:   Shooter2D/Saved/Logs/Shooter2D.log
+[2017.09.09-19.54.25:470][303]SourceControl: Untracked files:
+[2017.09.09-19.54.25:470][303]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.09.09-19.54.25:470][303]SourceControl: 	Shooter2D/Saved/Config/CrashReportClient/UE4CC-Windows-BBEF17EF463C3C2D19260E82517ADA61/
+[2017.09.09-19.54.25:470][303]SourceControl: 	Shooter2D/Saved/Logs/Shooter2D-backup-2017.09.09-12.53.09.log
+[2017.09.09-19.54.25:470][303]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.09.09-19.54.36:091][839]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.09-19.54.59:734][917]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.09-19.55.00:146][917]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.09.09-19.55.23:751][145]LogSlate: Took 0.020553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.09-19.55.56:857][627]LogEditorTransaction: Undo Modify Component(s)
+[2017.09.09-19.55.57:128][627]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.09-19.57.39:777][753]LogEditorTransaction: Undo Modify Component(s)
+[2017.09.09-19.57.40:626][777]LogEditorTransaction: Undo Modify Component(s)
+[2017.09.09-19.58.24:550][163]BlueprintLog: New page: Compile Bullets
+[2017.09.09-19.58.39:505][313]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2017.09.09-19.58.39:554][313]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.58.40:330][313]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.58.40:393][313]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2017.09.09-19.58.40:397][313]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2017.09.09-19.58.40:464][313]LogSlate: Took 0.037017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.09-19.58.41:701][323]MaterialEditorStats: Base pass shader: 79 instructions
+[2017.09.09-19.58.41:701][323]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.09-19.58.41:701][323]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.09-19.58.54:849][560]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.58.56:198][577]MaterialEditorStats: Base pass shader: 84 instructions
+[2017.09.09-19.58.56:198][577]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.09-19.58.56:198][577]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.09-19.59.14:954][871]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.59.14:965][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.09-19.59.14:997][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2017.09.09-19.59.15:001][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2017.09.09-19.59.15:005][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.09-19.59.16:924][899]MaterialEditorStats: Base pass shader: 84 instructions
+[2017.09.09-19.59.16:924][899]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.09-19.59.16:924][899]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.09-19.59.22:866][  0]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.59.25:204][ 55]MaterialEditorStats: Base pass shader: 83 instructions
+[2017.09.09-19.59.25:204][ 55]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.09.09-19.59.25:204][ 55]MaterialEditorStats: Texture samplers: 1/16
+[2017.09.09-19.59.27:040][102]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.59.27:058][102]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.09-19.59.28:730][122]MaterialEditorStats: Base pass shader: 86 instructions
+[2017.09.09-19.59.28:730][122]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-19.59.28:730][122]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-19.59.28:730][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-19.59.41:668][322]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.59.43:193][341]MaterialEditorStats: Base pass shader: 86 instructions
+[2017.09.09-19.59.43:193][341]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-19.59.43:193][341]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-19.59.43:193][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-19.59.50:903][430]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.59.53:249][481]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.59.54:476][497]MaterialEditorStats: Base pass shader: 86 instructions
+[2017.09.09-19.59.54:476][497]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-19.59.54:476][497]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-19.59.54:476][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-19.59.57:262][529]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-19.59.58:552][545]MaterialEditorStats: Base pass shader: 86 instructions
+[2017.09.09-19.59.58:552][545]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-19.59.58:552][545]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-19.59.58:552][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-20.00.14:874][736]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-20.00.16:231][753]MaterialEditorStats: Base pass shader: 86 instructions
+[2017.09.09-20.00.16:231][753]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-20.00.16:231][753]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-20.00.16:231][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-20.00.19:567][791]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-20.00.21:454][814]MaterialEditorStats: Base pass shader: 86 instructions
+[2017.09.09-20.00.21:454][814]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-20.00.21:454][814]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-20.00.21:454][814]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-20.00.33:270][962]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-20.00.33:281][962]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.09-20.00.33:328][962]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.09-20.00.33:332][962]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.09-20.00.35:959][ 17]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-20.00.35:973][ 17]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.09.09-20.00.37:308][ 34]MaterialEditorStats: Base pass shader: 87 instructions
+[2017.09.09-20.00.37:308][ 34]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-20.00.37:308][ 34]MaterialEditorStats: Texture samplers: 3/16
+[2017.09.09-20.00.37:308][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-20.00.45:367][144]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-20.00.46:666][160]MaterialEditorStats: Base pass shader: 86 instructions
+[2017.09.09-20.00.46:666][160]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-20.00.46:666][160]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-20.00.46:666][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-20.01.04:348][410]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-20.01.05:919][429]MaterialEditorStats: Base pass shader: 86 instructions
+[2017.09.09-20.01.05:919][429]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-20.01.05:919][429]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-20.01.05:919][429]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-20.01.07:635][472]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-20.01.07:648][472]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.09.09-20.01.09:151][491]MaterialEditorStats: Base pass shader: 87 instructions
+[2017.09.09-20.01.09:151][491]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-20.01.09:151][491]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-20.01.09:151][491]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-20.01.20:935][711]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-20.01.22:595][732]MaterialEditorStats: Base pass shader: 87 instructions
+[2017.09.09-20.01.22:595][732]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-20.01.22:595][732]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-20.01.22:595][732]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-20.01.32:251][883]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.09.09-20.01.33:587][900]MaterialEditorStats: Base pass shader: 87 instructions
+[2017.09.09-20.01.33:587][900]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.09.09-20.01.33:587][900]MaterialEditorStats: Texture samplers: 2/16
+[2017.09.09-20.01.33:587][900]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.09.09-20.01.34:722][913]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_1, compiling. 
+[2017.09.09-20.01.41:241][950]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.825 s
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: === Handled ensure: ===
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: 
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: Ensure condition failed: TargetPin [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\MaterialEditor\Private\MaterialEditor.cpp] [Line: 2574]
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: 
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: Stack: 
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000156A3606
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000001542C2D2
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000015444746
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-MaterialEditor.dll!0x0000000018594871
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-MaterialEditor.dll!0x0000000018567BE6
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BD84F1B
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BE8D3B8
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BE753D6
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FE6F524
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8628
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8BA9
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEAA836
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8CDD
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEAA836
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8CDD
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEAA836
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8CDD
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8BA9
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEAA836
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8CDD
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8667
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BFE36BD
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8667
+[2017.09.09-20.01.41:241][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BFDF63D
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA8667
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEA9F2A
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FE6783B
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEAAACA
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x000000001FEAA63E
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BD90A8A
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BD91AA8
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BD91AA8
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BDC5C10
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BD91B50
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BDEC297
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000001BDEB335
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor.exe!0x00000000DA715DFD
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor.exe!0x00000000DA723970
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor.exe!0x00000000DA7239EA
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor.exe!0x00000000DA7302D9
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: UE4Editor.exe!0x00000000DA731C47
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: KERNEL32.DLL!0x0000000053F02774
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: ntdll.dll!0x00000000569A0D51
+[2017.09.09-20.01.41:242][950]LogOutputDevice: Error: 
+[2017.09.09-20.01.41:244][950]LogStats:                SubmitErrorReport -  0.000 s
